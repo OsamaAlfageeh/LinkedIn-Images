@@ -1,6 +1,28 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "items": [
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-13",
+      "url": "https://x.com/Osama_alfageeh/status/2110068052410966112",
+      "quoted_url": "https://x.com/levelsio/status/2109352968122515681",
+      "quoted_media_type": "image",
+      "text": "بيتر ليفلز لغى تقريباً كل اشتراكات البرامج في شغله، وصار يبني بدايلها بالذكاء الاصطناعي. باقي يدفع بس: تشغيل النماذج، الاستضافة، التخزين، والنسخ الاحتياطي.\n\nرأيي: يمشي مع مطوّر لحاله. الشركة لو سوّتها، مين يصون البرامج ويحدّثها ويأمّنها؟\n\nكم اشتراك عندكم ما أحد يستخدمه؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-13",
+      "url": "https://x.com/Osama_alfageeh/status/2110022748793692321",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "وداعاً للتخمين: هل إيميل شركتك مسرّب؟ 👋\n\nموقع Have I Been Pwned يقول لك:\n• هل إيميلك ظهر في تسريب\n• أي موقع تسرّب منه ومتى\n• وينبّهك عند أي تسريب جديد\n\nابدأ: اكتب إيميلك واضغط Check.\n\nللشركات: افحص نطاق الشركة كامل، وأي حساب مسرّب غيّر كلمته وفعّل التحقق بخطوتين.",
+      "media": "feeds/media/2026-10-13-x.jpg",
+      "media_type": "image"
+    },
     {
       "network": "twitter",
       "account": "osama",
