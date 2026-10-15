@@ -1,6 +1,39 @@
 {
-    "updated":  "2026-10-14",
+    "updated":  "2026-10-15",
     "items":  [
+                  {
+                      "network":  "twitter",
+                      "account":  "osama",
+                      "date":  "2026-10-15",
+                      "url":  "https://x.com/Osama_alfageeh/status/2110792827126817216",
+                      "quoted_url":  null,
+                      "quoted_media_type":  null,
+                      "text":  "وداعاً لمعادلات Excel المعقدة 📊ارفع ملف المبيعات لـ ChatGPT أو Claude واسأله بالعربي:«وش أكثر منتج تراجعت مبيعاته وليش؟»يطلع لك الجواب ومعه رسم بياني.نصيحتي: احذف أسماء العملاء وأرقام الجوالات قبل الرفع.",
+                      "media":  "feeds/media/2026-10-15-x.jpg",
+                      "media_type":  "image"
+                  },
+                  {
+                      "network":  "twitter",
+                      "account":  "osama",
+                      "date":  "2026-10-15",
+                      "url":  "https://x.com/Osama_alfageeh/status/2110732436179141036",
+                      "quoted_url":  "https://x.com/GergelyOrosz/status/2108510487746883977",
+                      "quoted_media_type":  null,
+                      "text":  "مدير تقني في شركة كبيرة قال لجيرجلي أوروس:\n\nالكل يقول إن الخريجين الجدد «جيل الذكاء الاصطناعي»، لكننا لا نرى ذلك. أغلبهم لم يستخدموا أدوات البرمجة بالذكاء الاصطناعي إلا قليلاً.\n\nرأيي: لا تفترض أن الموظف الجديد يعرفها. درّبه عليها من أول أسبوع.\n\nعندكم تدريب عليها؟",
+                      "media":  null,
+                      "media_type":  null
+                  },
+                  {
+                      "network":  "twitter",
+                      "account":  "osama",
+                      "date":  "2026-10-15",
+                      "url":  "https://x.com/Osama_alfageeh/status/2110656943412969617",
+                      "quoted_url":  null,
+                      "quoted_media_type":  null,
+                      "text":  "تقرير Semperis للفدية 2026: ٨٤٪ من الشركات اللي تعرّضت لهجوم فدية قالت إن المهاجمين استخدموا الذكاء الاصطناعي، و٤٤٪ قالت إنهم استغلوا أنظمة الذكاء الاصطناعي حقّت الشركة نفسها.رأيي: كل أداة ذكاء اصطناعي تضيفها لشركتك باب جديد. عاملها كنظام حساس: صلاحيات وسجل ومراجعة.",
+                      "media":  null,
+                      "media_type":  null
+                  },
                   {
                       "network":  "twitter",
                       "account":  "osama",
@@ -75,39 +108,6 @@
                       "quoted_url":  "https://x.com/tibo_maker/status/2109214987038216210",
                       "quoted_media_type":  null,
                       "text":  "صاحب أداة نمو على X باعها بـ10 مليون دولار رجع لبيانات 6,000 تغريدة له، وهذا اللي يشتغل الحين:\n\n• ردّك تحت تغريدة رائجة أقوى من تغريدتك\n• الطويل يغلب القصير\n• الناس تحفظ اللي ينفعها\n• تجربتك أهم من منتجك\n• لا تغيب يوم\n\nرأيي: نفس القاعدة للشركات. انفع قبل ما تبيع.",
-                      "media":  null,
-                      "media_type":  null
-                  },
-                  {
-                      "network":  "twitter",
-                      "account":  "osama",
-                      "date":  "2026-10-12",
-                      "url":  "https://x.com/Osama_alfageeh/status/2109715500364148742",
-                      "quoted_url":  "https://x.com/AYi_AInotes/status/2109621079501320541",
-                      "quoted_media_type":  "video",
-                      "text":  "منتشر اليوم: سنة Cursor Pro مجاناً عبر تحدي Hacktoberfest من MLH، وينتهي 15 أكتوبر.\n\nراجعت المصدر: الفعالية حقيقية على موقع MLH الرسمي، لكن صفحتها ما تذكر عرض Cursor.\n\nرأيي: جرّب ببريدك الشخصي، ولا تربط حساب الشركة ولا كودها قبل ما تتأكد.\n\nأحد وصله الكود؟",
-                      "media":  null,
-                      "media_type":  null
-                  },
-                  {
-                      "network":  "twitter",
-                      "account":  "osama",
-                      "date":  "2026-10-12",
-                      "url":  "https://x.com/Osama_alfageeh/status/2109705665794990322",
-                      "quoted_url":  "https://x.com/AnthropicAI/status/2108680150556737819",
-                      "quoted_media_type":  null,
-                      "text":  "شركة Anthropic بدأت تنشر تقارير دورية عن سلوك نماذجها، غير بطاقات النظام وتقارير المخاطر المعتادة. أول تقرير يصف أربعة أنواع من السلوك رصدوها أثناء التقييم والاستخدام الداخلي.\n\nرأيي: الشركة التي تصنع الأداة تراقب سلوكها علناً.\n\nوفي شركتك، من يراقب كيف يُستخدم الذكاء الاصطناعي؟",
-                      "media":  null,
-                      "media_type":  null
-                  },
-                  {
-                      "network":  "twitter",
-                      "account":  "osama",
-                      "date":  "2026-10-12",
-                      "url":  "https://x.com/Osama_alfageeh/status/2109690567580066260",
-                      "quoted_url":  "https://x.com/simonw/status/2108547065634844839",
-                      "quoted_media_type":  null,
-                      "text":  "سايمون ويليسون، المبرمج المعروف وأحد مؤسسي Django، بنى ميزة لمدونته وهو يطبخ: يشرح بصوته والذكاء الاصطناعي يكتب الكود.\n\nرأيي: البرمجة صارت محادثة. لكن في الشركات، أي كود يكتبه الذكاء الاصطناعي يحتاج مراجعة قبل ما يوصل للعملاء، مهما كانت السرعة مغرية.\n\nجربتوا البرمجة بالصوت؟",
                       "media":  null,
                       "media_type":  null
                   }
