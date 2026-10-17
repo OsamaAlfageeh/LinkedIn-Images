@@ -5,6 +5,17 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-17",
+      "url": "https://x.com/Osama_alfageeh/status/2111542208960598351",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "أبرز ٣ إطلاقات من شركات التقنية الكبرى هالأسبوع 🧵",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-17",
       "url": "https://x.com/Osama_alfageeh/status/2111517603667792157",
       "quoted_url": null,
       "quoted_media_type": null,
@@ -99,17 +110,6 @@
       "text": "وداعاً لتفريغ الاجتماعات يدوياً 👋\n\nسجّل الاجتماع، ارفعه لـ ChatGPT أو Claude، واطلب:\n- ملخص بنقاط\n- القرارات اللي اتّخذت\n- المهام ومين مسؤول عنها\n\nدقائق بدل ساعة كتابة.\nبس انتبه: اجتماع فيه بيانات عملاء لا ترفعه على حساب شخصي، استخدم نسخة الشركات.",
       "media": "feeds/media/2026-10-14-x.jpg",
       "media_type": "image"
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-14",
-      "url": "https://x.com/Osama_alfageeh/status/2110426028686360882",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "براين كربس: مايكروسوفت أصلحت هذا الشهر أكثر من ١٤٠٠ ثغرة، رقم قياسي، منها ٧٨ حرجة على الأقل وواحدة في ويندوز تُستغل الآن، وتنسب كثرتها لنماذج الذكاء الاصطناعي.\n\nرأيي: الذكاء الاصطناعي يكشف الثغرات للمهاجم أيضاً. التحديث المتأخر صار مخاطرة.\nأجهزة شركتك تتحدث تلقائياً؟",
-      "media": null,
-      "media_type": null
     }
   ]
 }
