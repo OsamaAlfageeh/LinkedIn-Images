@@ -5,6 +5,17 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-17",
+      "url": "https://x.com/Osama_alfageeh/status/2111543129169870995",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "تسلا كشفت ١٥ أكتوبر عن Roadster الجديدة، وفي العرض ارتفعت بقفزة قصيرة ونزلت على عجلاتها.\n\nالرفع بنفّاثات هواء مضغوط، والإنتاج المعلن ٢٠٢٨، والسعر ما انعلن.\n\nرأيي: العرض مبهر، لكن هيئة الطيران الأمريكية قالت لـ CBS إنها ما ينطبق عليها تعريف الطائرة. الحكم بعد التسليم مو بعد العرض.",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-17",
       "url": "https://x.com/Osama_alfageeh/status/2111542208960598351",
       "quoted_url": null,
       "quoted_media_type": null,
@@ -99,17 +110,6 @@
       "text": "قوقل بدأت تتيح Gemini 4 Argon للمطورين ومشتركي Ultra، بسعر تعريفي ٢ دولار لكل مليون توكن مدخل و١٠ للمخرج.\n\nرأيي: كل شهر يتصدّر نموذج جديد. لا تربط أنظمة شركتك بنموذج واحد؛ ابنِ طبقة تبدّل النموذج بدون ما تعيد كتابة كل شيء.",
       "media": null,
       "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-14",
-      "url": "https://x.com/Osama_alfageeh/status/2110428142917783712",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "وداعاً لتفريغ الاجتماعات يدوياً 👋\n\nسجّل الاجتماع، ارفعه لـ ChatGPT أو Claude، واطلب:\n- ملخص بنقاط\n- القرارات اللي اتّخذت\n- المهام ومين مسؤول عنها\n\nدقائق بدل ساعة كتابة.\nبس انتبه: اجتماع فيه بيانات عملاء لا ترفعه على حساب شخصي، استخدم نسخة الشركات.",
-      "media": "feeds/media/2026-10-14-x.jpg",
-      "media_type": "image"
     }
   ]
 }
