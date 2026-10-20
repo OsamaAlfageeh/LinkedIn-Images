@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "items": [
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-20",
+      "url": "https://x.com/Osama_alfageeh/status/2112426863695974829",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "لو غاب موظف التقنية بكرة… مين يتصرّف؟\n\nالمشكلة مو في الموظف. المشكلة لما يكون كل شيء في رأس شخص واحد: السيرفرات، وكلمات المرور، وخطوات الاسترجاع.\n\n٣ أشياء تريّحك وتريّحه:\n- كل شيء مكتوب\n- شخص ثاني يقدر يتصرّف ولو بالحد الأدنى\n- التنبيهات توصل للكل، مو لجوال شخص واحد",
+      "media": null,
+      "media_type": null
+    },
     {
       "network": "twitter",
       "account": "osama",
@@ -99,17 +110,6 @@
       "text": "أبرز ٣ إطلاقات من شركات التقنية الكبرى هالأسبوع 🧵",
       "media": null,
       "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-17",
-      "url": "https://x.com/Osama_alfageeh/status/2111517603667792157",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "وداعاً لإدخال الفواتير يدوياً 🧾\n\nصوّر الفاتورة وارفعها لـ ChatGPT أو Claude واطلب:\n- جدول فيه التاريخ والمورد والمبلغ والضريبة\n- جاهز تنسخه لإكسل\n\nدقائق بدل ساعة إدخال.\n\nنصيحتي: راجع المجاميع بنفسك قبل ما تعتمدها.",
-      "media": "feeds/media/2026-10-17-x.jpg",
-      "media_type": "image"
     }
   ]
 }
