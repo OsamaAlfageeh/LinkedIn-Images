@@ -1,6 +1,50 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "items": [
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113412584800145905",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "لو تقدر تخلي الذكاء الاصطناعي يسوي عنك مهمة وحدة في شغلك من بكرة، وش بتكون؟ 🤖",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113397491194286516",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "٤ اختصارات في ويندوز توفر عليك وقت 🖥️\n\nWin + V: سجل كل اللي نسخته\nWin + Shift + S: لقطة لجزء من الشاشة\nWin + .: الإيموجي والرموز\nWin + L: قفل الجهاز وأنت قايم\n\nأيها ما كنت تعرفه؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113382385857315101",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "٥ علامات إن الرسالة اللي جتك احتيال 🎣\n\n١. تستعجلك: «خلال ساعة»\n٢. تطلب رمز التحقق\n٣. رابط يشبه الأصلي بس فيه حرف زايد\n٤. جائزة ما اشتركت فيها\n٥. رقم غريب يقول إنه من جهة رسمية\n\nوأنتم وش أغرب رسالة وصلتكم؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-22",
+      "url": "https://x.com/Osama_alfageeh/status/2113359741732979144",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "حسابك في واتساب ممكن ينسرق برمز واحد 🔐\n\nفعّل «التحقق بخطوتين»:\nالإعدادات ← الحساب ← التحقق بخطوتين ← تشغيل\n\nيطلب منك رمز سري تختاره أنت، فلو أحد أخذ رمز الرسالة ما يقدر يدخل.\n\nمفعّلينه؟",
+      "media": null,
+      "media_type": null
+    },
     {
       "network": "twitter",
       "account": "osama",
@@ -64,50 +108,6 @@
       "quoted_url": null,
       "quoted_media_type": null,
       "text": "تخلص معاملتك الحكومية من جوالك بدقايق؟ 🇸🇦\n\nهذا مو صدفة. حسب مسح الأمم المتحدة للحكومة الإلكترونية 2024، السعودية:\n- السادسة عالمياً في تطوير الحكومة الإلكترونية\n- الرابعة عالمياً في الخدمات الإلكترونية\n\nوش أكثر خدمة حكومية تستخدمها من جوالك؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113238954866516270",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "أنثروبيك أطلقت Claude Duet: وكيل شخصي يتابع حساباتك، يكمّل المهام وأنت غايب، وينتظر موافقتك في الخطوات المهمة.\nيربط مع أكثر من 6,000 أداة.\nتجريبي لمشتركي Pro وMax في أمريكا.\n\nرأيي: قبل ما تدخلون أي وكيل شركتكم، حددوا وش يسوي لحاله ووش يحتاج إذنكم، لأن خطأه يطلع باسمكم.",
-      "media": "feeds/media/2026-10-22-x.jpg",
-      "media_type": "image"
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113223850653831540",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "سيرتك الذاتية ممكن ترفضها الأنظمة قبل ما يشوفها أحد 📄\n\n٣ أشياء تساعدها تعدّي:\n- PDF نصي، مو صورة\n- عناوين معروفة: الخبرات، التعليم، المهارات\n- كلمات من إعلان الوظيفة نفسه\n\nجرّبت تنسخ نص سيرتك وتشوف وش يطلع؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113163451807785383",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "موقع طلب منك تنسخ أمر وتلصقه في جهازك «للتحقق»؟ 🛑\n\nهذي حيلة احتيال اسمها ClickFix، وكروم صار ينبهك لما تنسخ أمر مشبوه.\n\nبس التنبيه يشتغل مع «الحماية المحسّنة»:\nالإعدادات ← الخصوصية والأمان ← الأمان ← الحماية المحسّنة\n\nمفعّلينها عندكم؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113139373008974160",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "عندكم سيرفر GitLab خاص في الشركة؟ حدّثوه اليوم ⚠️\n\nGitLab أصلحت ثغرة تقييمها 10 من 10، تسمح لأي أحد يشغّل أوامر على السيرفر بدون تسجيل دخول.\n\nالنسخ الآمنة: 19.5.1 و19.4.3 و18.11.13 وغيرها.\nاللي على GitLab.com ما عليهم شي.\n\nمين مسؤول التحديث عندكم؟",
       "media": null,
       "media_type": null
     }
