@@ -5,6 +5,17 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113601345391378535",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "إنفيديا بدأت اليوم بيع DGX Spark بذاكرة 64GB، من 4,999 دولار عند Acer وASUS وDell وHP وغيرها.\nيشغّل نماذج حتى 100 مليار معامل على مكتبك، وتقدر تربط حتى 8 أجهزة.\n\nرأيي: الشركة اللي بياناتها ما تطلع برا، هذا أرخص باب تجرّب منه نموذج محلي قبل ما تشتري سيرفرات.",
+      "media": "feeds/media/2026-10-23-x.jpg",
+      "media_type": "image"
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
       "url": "https://x.com/Osama_alfageeh/status/2113412584800145905",
       "quoted_url": null,
       "quoted_media_type": null,
@@ -97,17 +108,6 @@
       "quoted_url": null,
       "quoted_media_type": null,
       "text": "النت يفصل عندك أول ما تتصل؟ 📶\n\nغالباً خدمة VoLTE مقفلة.\nفي الآيفون: الإعدادات ← الخلوي ← خيارات البيانات ← الصوت والبيانات، واختر اللي معه VoLTE.\nوفي الأندرويد تلقاها في إعدادات شبكة الجوال.\n\nجرّبتوها؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113246493666603409",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "تخلص معاملتك الحكومية من جوالك بدقايق؟ 🇸🇦\n\nهذا مو صدفة. حسب مسح الأمم المتحدة للحكومة الإلكترونية 2024، السعودية:\n- السادسة عالمياً في تطوير الحكومة الإلكترونية\n- الرابعة عالمياً في الخدمات الإلكترونية\n\nوش أكثر خدمة حكومية تستخدمها من جوالك؟",
       "media": null,
       "media_type": null
     }
