@@ -1,6 +1,83 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "items": [
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-24",
+      "url": "https://x.com/Osama_alfageeh/status/2113774973059830248",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "وش أول تطبيق تفتحه أول ما تصحى؟ 📱",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-24",
+      "url": "https://x.com/Osama_alfageeh/status/2113759876396769726",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "قبل ما تشحن جوالك من منفذ USB عام في مطار أو مقهى 🔌\n\n١. استخدم فيشتك وشاحنك، أو باور بانك\n٢. لو طلع لك «الوثوق بهذا الكمبيوتر؟» اختر لا\n\nاحفظها لسفرتك الجاية.",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-24",
+      "url": "https://x.com/Osama_alfageeh/status/2113744774733943267",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "٥ أشياء لا تلصقها في ChatGPT أو أي مساعد ذكي 🤐\n\n١. كلمات المرور\n٢. رقم الهوية أو الحساب البنكي\n٣. بيانات عملائك\n٤. عقود سرية\n٥. صور وثائقك الرسمية\n\nوش تضيف للقائمة؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113722130319999064",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "جوالك آيفون؟ فعّل «حماية الجهاز المسروق» 🔐\n\nالإعدادات ← بصمة الوجه ورمز الدخول ← حماية الجهاز المسروق\n\nلو انسرق جوالك وأحد عرف رمزه، ما يقدر يغيّر كلمة مرور حسابك بدون بصمة وجهك.\n\nمفعّلينها؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113707024974328083",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "وداعاً للحيرة في ترتيب أسبوعك 📅\n\nاكتب لـ ChatGPT أو Claude مهامك ومواعيدك، وقل:\n«رتبها في جدول من الأحد للخميس، وخل المهم الصبح»\n\nويطلع لك أسبوعك جاهز.\n\nوش أكثر شي يلخبط أسبوعك؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113676831035474379",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "وداعاً لقراءة ٣٠٠ رسالة في قروب الشغل 💬\n\nانسخ المحادثة والصقها في ChatGPT أو Claude واكتب:\n«لخّص القرارات والمواعيد، ومين مطلوب منه وش»\n\nوتطلع لك الخلاصة في نقاط.\n\nكم رسالة تنتظرك في القروبات الحين؟",
+      "media": null,
+      "media_type": null
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-23",
+      "url": "https://x.com/Osama_alfageeh/status/2113631537635942736",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "تشغّلون مواقع أو تطبيقات على Node.js؟ حدّثوا اليوم 🛠️\n\nانصلحت 10 ثغرات، أخطرها في فك ضغط Brotli وتسمح بتنفيذ أوامر عن بعد.\n\nالنسخ الآمنة: 22.23.4 و24.22.1 و26.12.1\nواللي على Node 20 أو أقدم ما له إصلاح.\n\nمين يتابع التحديثات عندكم؟",
+      "media": null,
+      "media_type": null
+    },
     {
       "network": "twitter",
       "account": "osama",
@@ -16,10 +93,10 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-23",
-      "url": "https://x.com/Osama_alfageeh/status/2113412584800145905",
+      "url": "https://x.com/Osama_alfageeh/status/2113586243074142439",
       "quoted_url": null,
       "quoted_media_type": null,
-      "text": "لو تقدر تخلي الذكاء الاصطناعي يسوي عنك مهمة وحدة في شغلك من بكرة، وش بتكون؟ 🤖",
+      "text": "قبل ما تبيع جوالك أو تسلّمه للاستبدال 📱\n\n١. خذ نسخة احتياطية\n٢. سجّل خروج من Apple ID أو حساب Google، عشان يوقف قفل التفعيل\n٣. سوّ إعادة ضبط المصنع\n٤. صوّر الجوال وقت التسليم\n\nأي خطوة دايم تنساها؟",
       "media": null,
       "media_type": null
     },
@@ -27,87 +104,10 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-23",
-      "url": "https://x.com/Osama_alfageeh/status/2113397491194286516",
+      "url": "https://x.com/Osama_alfageeh/status/2113556034723987482",
       "quoted_url": null,
       "quoted_media_type": null,
-      "text": "٤ اختصارات في ويندوز توفر عليك وقت 🖥️\n\nWin + V: سجل كل اللي نسخته\nWin + Shift + S: لقطة لجزء من الشاشة\nWin + .: الإيموجي والرموز\nWin + L: قفل الجهاز وأنت قايم\n\nأيها ما كنت تعرفه؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-23",
-      "url": "https://x.com/Osama_alfageeh/status/2113382385857315101",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "٥ علامات إن الرسالة اللي جتك احتيال 🎣\n\n١. تستعجلك: «خلال ساعة»\n٢. تطلب رمز التحقق\n٣. رابط يشبه الأصلي بس فيه حرف زايد\n٤. جائزة ما اشتركت فيها\n٥. رقم غريب يقول إنه من جهة رسمية\n\nوأنتم وش أغرب رسالة وصلتكم؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113359741732979144",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "حسابك في واتساب ممكن ينسرق برمز واحد 🔐\n\nفعّل «التحقق بخطوتين»:\nالإعدادات ← الحساب ← التحقق بخطوتين ← تشغيل\n\nيطلب منك رمز سري تختاره أنت، فلو أحد أخذ رمز الرسالة ما يقدر يدخل.\n\nمفعّلينه؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113344643786330244",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "وداعاً للحيرة في كتابة وصف منتجات متجرك ✍️\n\nاكتب لـ ChatGPT أو Claude:\n- اسم المنتج ومميزاته بنقاط\n- مين جمهورك\n\nويطلع لك وصف قصير وجذاب تحطه في المتجر.\n\nأصحاب المتاجر: كم منتج عندكم بلا وصف؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113336509650616474",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "أهم إطلاقات التقنية هالأسبوع (١٦–٢٢ أكتوبر) 📌\n\n- إنفيديا: لابتوبات RTX Spark بذاكرة 128GB\n- آبل: الطلب المسبق على iPhone Duo القابل للطي\n- أوبن إيه آي: GPT-6 Pro بوكلاء بالتوازي\n- أوبن إيه آي: GPT-6.1 Sol بخُمس سعر Astra\n- أنثروبيك: Claude Duet وكيل شخصي\n\nالتفاصيل والمصادر تحت",
-      "media": "feeds/media/2026-10-22-x-2.jpg",
-      "media_type": "image"
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113314438996521264",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "وداعاً لتنظيف جدول العملاء بيدك 🧹\n\nالصق الجدول في ChatGPT أو Claude واكتب:\n«وحّد الأسماء، احذف المكرر، وخل أرقام الجوال بصيغة وحدة»\n\nويرجع لك جدول نظيف تنسخه للإكسل.\n\nكم ساعة راحت عليكم في تنظيف جداول؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113307263834448050",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "«عندنا مراقبة ٢٤/٧… يعني أحد يصلّح»\nهذي خرافة.\n\nالمراقبة ترصد العطل. لكن مين يبدأ يعالجه، ومتى؟ هذا سؤال ثاني.\n\nاسأل مزوّدك سؤالين منفصلين:\n- متى تُراقَب أنظمتنا؟\n- متى يتدخل إنسان فعلاً، خصوصاً بالليل وفي الإجازات؟\n\nوالجواب يكون مكتوب قبل التوقيع.",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-22",
-      "url": "https://x.com/Osama_alfageeh/status/2113269144464634133",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "النت يفصل عندك أول ما تتصل؟ 📶\n\nغالباً خدمة VoLTE مقفلة.\nفي الآيفون: الإعدادات ← الخلوي ← خيارات البيانات ← الصوت والبيانات، واختر اللي معه VoLTE.\nوفي الأندرويد تلقاها في إعدادات شبكة الجوال.\n\nجرّبتوها؟",
+      "text": "السعودية الأولى عالمياً في مؤشر تطوير تقنية المعلومات والاتصالات 2026 🇸🇦\n\nحسب الاتحاد الدولي للاتصالات، من بين 159 دولة، وللسنة الثانية على التوالي.\n\nوش أكثر خدمة رقمية فرقت معك؟",
       "media": null,
       "media_type": null
     }
