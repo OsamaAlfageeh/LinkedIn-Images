@@ -5,6 +5,17 @@
       "network": "twitter",
       "account": "osama",
       "date": "2026-10-24",
+      "url": "https://x.com/Osama_alfageeh/status/2113963722565902662",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "أوبن إيه آي أتاحت Decisions API للجميع: بدل ما يكتب النموذج نص، يرجع قرار جاهز: نعم/لا باحتمال، أو خيار من قائمة، أو درجة حسب معاييرك.\nأسرع حتى 10 مرات، و0.10 دولار لكل مليون رمز مدخل، والمخرجات مجاناً.\n\nرأيي: فرز الشكاوى والطلبات عندكم صار أرخص، لأنكم ما تدفعون على المخرجات.",
+      "media": "feeds/media/2026-10-24-x.jpg",
+      "media_type": "image"
+    },
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-24",
       "url": "https://x.com/Osama_alfageeh/status/2113774973059830248",
       "quoted_url": null,
       "quoted_media_type": null,
@@ -97,17 +108,6 @@
       "quoted_url": null,
       "quoted_media_type": null,
       "text": "قبل ما تبيع جوالك أو تسلّمه للاستبدال 📱\n\n١. خذ نسخة احتياطية\n٢. سجّل خروج من Apple ID أو حساب Google، عشان يوقف قفل التفعيل\n٣. سوّ إعادة ضبط المصنع\n٤. صوّر الجوال وقت التسليم\n\nأي خطوة دايم تنساها؟",
-      "media": null,
-      "media_type": null
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-23",
-      "url": "https://x.com/Osama_alfageeh/status/2113556034723987482",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "السعودية الأولى عالمياً في مؤشر تطوير تقنية المعلومات والاتصالات 2026 🇸🇦\n\nحسب الاتحاد الدولي للاتصالات، من بين 159 دولة، وللسنة الثانية على التوالي.\n\nوش أكثر خدمة رقمية فرقت معك؟",
       "media": null,
       "media_type": null
     }
