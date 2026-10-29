@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "items": [
+    {
+      "network": "twitter",
+      "account": "osama",
+      "date": "2026-10-29",
+      "url": "https://x.com/Osama_alfageeh/status/2115843198887317682",
+      "quoted_url": null,
+      "quoted_media_type": null,
+      "text": "«انتقلنا للسحابة… يعني بياناتنا محفوظة» — هذي خرافة.\n\nالمزوّد يشغّل الخوادم، أما نسخ بياناتك وحمايتها من الحذف فغالباً على إعداداتك أنت.\n\n٣ أسئلة:\n- النسخ مفعّل ومجرّب استرجاعه؟\n- فيه نسخة خارج نفس الحساب؟\n- مين يقدر يحذف؟",
+      "media": null,
+      "media_type": null
+    },
     {
       "network": "twitter",
       "account": "osama",
@@ -99,17 +110,6 @@
       "text": "أوبن إيه آي أتاحت Decisions API للجميع: بدل ما يكتب النموذج نص، يرجع قرار جاهز: نعم/لا باحتمال، أو خيار من قائمة، أو درجة حسب معاييرك.\nأسرع حتى 10 مرات، و0.10 دولار لكل مليون رمز مدخل، والمخرجات مجاناً.\n\nرأيي: فرز الشكاوى والطلبات عندكم صار أرخص، لأنكم ما تدفعون على المخرجات.",
       "media": "feeds/media/2026-10-24-x.jpg",
       "media_type": "image"
-    },
-    {
-      "network": "twitter",
-      "account": "osama",
-      "date": "2026-10-24",
-      "url": "https://x.com/Osama_alfageeh/status/2113774973059830248",
-      "quoted_url": null,
-      "quoted_media_type": null,
-      "text": "وش أول تطبيق تفتحه أول ما تصحى؟ 📱",
-      "media": null,
-      "media_type": null
     }
   ]
 }
